@@ -1,6 +1,6 @@
-package StepDefinitions;
+package Constants;
 
-public class Booking {
+public class BookingEndPoints {
     public static final String BASE_URL = "https://restful-booker.herokuapp.com";
     public static final String GET_BOOKINGS = "/booking";
     public static final String GET_BOOKING = "/booking/{id}";
